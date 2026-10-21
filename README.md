@@ -12,12 +12,3 @@ Este repositorio contiene el código fuente de una aplicación de calculadora de
 *   **Lenguaje:** Java
 *   **Herramienta de Construcción:** Gradle
 *   **IDE:** Android Studio / IntelliJ IDEA
-
-## Instrucciones de Uso
-Para compilar y ejecutar este proyecto localmente, clona el repositorio y utiliza el *wrapper* de Gradle incluido:
-```bash
-git clone https://github.com/tu-usuario/calculadora-java.git
-cd calculadora-java
-./gradlew build
-```
-Para obtener información más detallada sobre la arquitectura del diseño, por favor consulta los documentos incluidos en las carpetas `doc` y `figuras`.
