@@ -11,4 +11,4 @@ Este repositorio contiene el código fuente de una aplicación de calculadora de
 ## Stack Tecnológico
 *   **Lenguaje:** Java
 *   **Herramienta de Construcción:** Gradle
-*   **IDE:** Android Studio / IntelliJ IDEA
+*   **IDE:** IntelliJ IDEA
